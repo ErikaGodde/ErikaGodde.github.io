@@ -303,12 +303,13 @@ body {
     text-transform: uppercase;
 }
 
-.type-pdf { background: #ff6b6b; color: white; }
+.type-outils { background: #ff6b6b; color: white; }
 .type-video { background: #4ecdc4; color: white; }
 .type-audio { background: #45b7d1; color: white; }
 .type-article { background: #96ceb4; color: white; }
-.type-cours { background: #feca57; color: white; }
+.type-formation { background: #feca57; color: white; }
 .type-publication { background: #48dbfb; color: white; }
+.type-pdf { background: #feca57; color: white; }
 
 .resource-title {
     font-size: 1.3em;
