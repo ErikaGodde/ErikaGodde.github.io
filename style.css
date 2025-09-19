@@ -309,7 +309,7 @@ body {
 .type-article { background: #96ceb4; color: white; }
 .type-formation { background: #feca57; color: white; }
 .type-publication { background: #48dbfb; color: white; }
-.type-pdf { background: #feca57; color: white; }
+.type-pdf { background: #48dbfb; color: white; }
 
 .resource-title {
     font-size: 1.3em;
